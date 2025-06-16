@@ -1,0 +1,6 @@
+baseSaveName=Test
+googleDriveFolder=C:\Users\david\Google Drive\Saves\Satisfactory
+steamSaveFolder=C:\Users\david\AppData\Local\FactoryGame\Saved\SaveGames\76561198834208673
+healthCheckInterval=5
+gameProcessName=FactoryGameSteam-Win64-Shipping
+gameLaunchUri=steam://rungameid/526870
